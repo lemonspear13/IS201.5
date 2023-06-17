@@ -1,0 +1,48 @@
+.common{
+    color: black;
+    border: 2px solid;
+    position: absolute;
+}
+.headeredu{
+    height: 65px;
+}
+.informationedu{
+    top: 100px;
+    left: 5px;
+    width: 600px;
+    bottom: 300px;
+    float: left;
+}
+.mediaedu{
+    top: 100px;
+    right: -42px;
+    width: 600px;
+    bottom: 311px;
+}
+.headerexp{
+    height: 65px;
+}
+.informationexp{
+    top: 100px;
+    left: 5px;
+    width: 400px;
+    bottom: 420px;
+    float: left;
+}
+.mediaexp{
+    top: 5px;
+    left: 450px;
+    width: 50px;
+    bottom: 307px;
+}.headerski{
+    height: 65px;
+    border-color: white;
+}
+.informationski{
+    top: 100px;
+    left: 5px;
+    width: 600px;
+    bottom: 360px;
+    float: left;
+    border-color: white;
+}

@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(140, 175, 231);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(145, 145, 145);
+}
+.home {
+    color: rgb(31, 29, 29);
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+    font-weight: bold;
+}
+.education{
+    color: blue;
+}
+ol {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(226, 226, 226);
+}
+.bold{
+    font-weight: bold;
+    color: rgb(109, 107, 107);
+}
+.experience{
+    color: rgb(77, 104, 236);
+}
+.expbackground{
+    background-color: rgb(193, 193, 193);
+    background-image: url(../images/swig\ logo.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+.exptext{
+    color: rgb(49, 49, 49);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.skills{
+    color: rgb(212, 161, 86);
+}
+.skibackground{
+    background-color: rgb(39, 39, 39);
+}
+.skitext{
+    color: rgb(165, 165, 165);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.skihome{
+    color: white;
+}
